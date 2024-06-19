@@ -2,7 +2,7 @@
 <a align="center">
 
 <!-- 헤더 -->
-![reversal](https://capsule-render.vercel.app/api?type=waving&section=footer&color=393E46&animation=twinkling&height=80&fontAlign=30&fontSize=30&descAlign=60&descAlignY=50&theme=Cylinder)
+![reversal](https://capsule-render.vercel.app/api?type=waving&section=footer&color=393E46&animation=twinkling&height=80&fontAlign=30&fontSize=300&theme=Cylinder&descSize=15&desc=To%20be%20an%20iOS%20developer&fontColor=EEEEEE&descAlign=80)
 
 <!-- 방문자 수 뱃지 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsts06017&count_bg=%2300ADB5&title_bg=%23393E46&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
