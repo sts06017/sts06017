@@ -13,18 +13,18 @@
 <br>
 <br>
 
-<!-- 바디 -->
-<h2> 📚&nbsp Once I've Used &nbsp📚 </h2>
-
-<!-- 사용하는 언어 -->
-<h4> main using </h4>
+<!-- 바디1 -->
+<h2> 💪&nbsp Main Using &nbsp💪 </h2>
  <div>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/SWIFT-%23F05138?style=flat&logo=swift&logoColor=white&logoSize=auto&labelColor=White">
  </div>
- 
- <br>
- <br>
+
+<br>
+<br>
+
+<!-- 바디2 -->
+<h2> 📚&nbsp Once I've Used &nbsp📚 </h2>
 
  <!-- 배운 언어 -->
  <h4> learned </h4>
