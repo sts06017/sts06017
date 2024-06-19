@@ -34,10 +34,16 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/LINUX-%23FCC624?style=flat&logo=linux&logoColor=white&logoSize=auto&labelColor=White&color=White">
  </div>
- 
+ <br>
  <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white&logoSize=auto&labelColor=White">
   <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-%230085CA?style=flat&logoSize=auto&labelColor=White">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=flat&logo=javascript&logoColor=black&logoSize=auto">
+ </div>
+ <br>
+ <div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/ORACLE-%23F80000?style=flat&logo=oracle&logoColor=white&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-%234479A1?style=flat&logo=mysql&logoColor=white&logoSize=auto">
  </div>
  
  <br>
@@ -47,12 +53,30 @@
  <h4> develop tools </h4>
  <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/ANDROID%20STUDIO-%2334A853?style=flat&logo=android&logoColor=white&logoSize=auto&labelColor=White">
-  <img alt="Static Badge" src="https://img.shields.io/badge/VSCODE-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white&logoSize=auto&labelColor=White">
- </div>
- <div>
-  <img alt="Static Badge" src="https://img.shields.io/badge/VISUAL%20STUDIO-%235C2D91?style=flat&logo=visualstudio&logoColor=white&logoSize=auto&labelColor=White">
   <img alt="Static Badge" src="https://img.shields.io/badge/XCODE-%23147EFB?style=flat&logo=xcode&logoColor=white&logoSize=auto&labelColor=White">
  </div>
+ <br>
+ <div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/VISUAL%20STUDIO-%235C2D91?style=flat&logo=visualstudio&logoColor=white&logoSize=auto&labelColor=White">
+  <img alt="Static Badge" src="https://img.shields.io/badge/VSCODE-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white&logoSize=auto&labelColor=White">
+ </div>
+ <br>
+ <div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/ECLIPSE%20IDE-%232C2255?style=flat&logo=eclipseide&logoColor=white&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/ANACONDA-%2344A833?style=flat&logo=anaconda&logoColor=white&logoSize=auto">
+ </div>
+
+ <br>
+ <br>
+
+<h4> virsion control </h4>
+<div>
+ <img alt="Static Badge" src="https://img.shields.io/badge/GIT-%23F05032?style=flat&logo=git&logoColor=white&logoSize=auto">
+ <img alt="Static Badge" src="https://img.shields.io/badge/GITHUB-%23181717?style=flat&logo=github&logoColor=white&logoSize=auto">
+ <img alt="Static Badge" src="https://img.shields.io/badge/SOURCE%20TREE-%230052CC?style=flat&logo=sourcetree&logoColor=white&logoSize=auto">
+</div>
+
+ <br>
  <br>
 
  <!-- sns링크 -->
