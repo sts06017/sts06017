@@ -29,7 +29,7 @@
  <!-- 배운 언어 -->
  <h4> learned </h4>
  <div>
-  <img alt="Static Badge" src="https://img.shields.io/badge/__C-%23A8B9CC?style=flat&logo=c&logoColor=white&logoSize=auto&labelColor=White">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=flat&logo=c&logoColor=white&logoSize=auto&labelColor=White">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=cplusplus&logoColor=white&logoSize=auto&labelColor=White">
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/LINUX-%23FCC624?style=flat&logo=linux&logoColor=white&logoSize=auto&labelColor=White&color=White">
