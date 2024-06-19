@@ -27,7 +27,7 @@
 <h2> 📚&nbsp Once I've Used &nbsp📚 </h2>
 
  <!-- 배운 언어 -->
- <h4> learned </h4>
+ <h3> learned </h3>
  <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=flat&logo=c&logoColor=white&logoSize=auto&labelColor=White">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=cplusplus&logoColor=white&logoSize=auto&labelColor=White">
@@ -47,7 +47,7 @@
  <br>
 
 <!-- 사용 개발 도구 -->
- <h4> develop tools </h4>
+ <h3> develop tools </h3>
  <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/ANDROID%20STUDIO-%2334A853?style=flat&logo=android&logoColor=white&logoSize=auto&labelColor=White">
   <img alt="Static Badge" src="https://img.shields.io/badge/XCODE-%23147EFB?style=flat&logo=xcode&logoColor=white&logoSize=auto&labelColor=White">
@@ -63,7 +63,7 @@
  <br>
  <br>
 
-<h4> virsion control </h4>
+<h3> virsion control </h3>
 <div>
  <img alt="Static Badge" src="https://img.shields.io/badge/GIT-%23F05032?style=flat&logo=git&logoColor=white&logoSize=auto">
  <img alt="Static Badge" src="https://img.shields.io/badge/GITHUB-%23181717?style=flat&logo=github&logoColor=white&logoSize=auto">
