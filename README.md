@@ -5,6 +5,7 @@
 <a href="https://www.instagram.com/seungho4923/"><img alt="Static Badge" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=flat&logo=instagram&logoColor=white&logoSize=auto&labelColor=White"/></a>
 <a href="mailto:sts06017@naver.com"><img alt="Static Badge" src="https://img.shields.io/badge/NAVER-%2303C75A?style=flat&logo=naver&logoColor=white&logoSize=small&labelColor=White"/></a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sts06017&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sts06017/sts06017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
