@@ -1,21 +1,26 @@
 <div align="center">
 <a align="center">
+ 
+![reversal](https://capsule-render.vercel.app/api?type=waving&section=footer&color=393E46&animation=twinkling&height=80&fontAlign=30&fontSize=30&descAlign=60&descAlignY=50&theme=Cylinder)
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsts06017&count_bg=%2300ADB5&title_bg=%23393E46&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsts06017&count_bg=%238285FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sts06017&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sts06017&show_icons=true&icon_color=393E46&text_color=EEEEEE&theme=transparent&title_color=00ADB5&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 
- ## Once I've Used 
+ ## 📚 Once I've Used 📚
 
 <p> main using </p>
  <div>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/SWIFT-%23F05138?style=flat&logo=swift&logoColor=white&logoSize=auto&labelColor=White">
  </div>
- <br><br>
+ 
+ <br>
+ <br>
+ 
  <p> learned </p>
  <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/__C-%23A8B9CC?style=flat&logo=c&logoColor=white&logoSize=auto&labelColor=White">
@@ -23,22 +28,27 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/LINUX-%23FCC624?style=flat&logo=linux&logoColor=white&logoSize=auto&labelColor=White&color=White">
  </div>
+ 
  <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white&logoSize=auto&labelColor=White">
   <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-%230085CA?style=flat&logoSize=auto&labelColor=White">
  </div>
- <br><br>
+ 
+ <br>
+ <br>
+ 
  <p> develop tools </p>
  <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/ANDROID%20STUDIO-%2334A853?style=flat&logo=android&logoColor=white&logoSize=auto&labelColor=White">
   <img alt="Static Badge" src="https://img.shields.io/badge/VSCODE-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white&logoSize=auto&labelColor=White">
+ </div>
+ <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/VISUAL%20STUDIO-%235C2D91?style=flat&logo=visualstudio&logoColor=white&logoSize=auto&labelColor=White">
   <img alt="Static Badge" src="https://img.shields.io/badge/XCODE-%23147EFB?style=flat&logo=xcode&logoColor=white&logoSize=auto&labelColor=White">
  </div>
  <br>
- <br>
  
- ## SNS LINK 💬
+ ## 💬 SNS LINK 💬
 <!-- <section> -->
 <a href="https://www.instagram.com/seungho4923/"><img alt="Static Badge" src="https://img.shields.io/badge/INSTAGRAM-%23E4405F?style=flat&logo=instagram&logoColor=white&logoSize=auto&labelColor=White"/></a>
 <a href="mailto:sts06017@naver.com"><img alt="Static Badge" src="https://img.shields.io/badge/NAVER-%2303C75A?style=flat&logo=naver&logoColor=white&logoSize=small&labelColor=White"/></a>
