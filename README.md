@@ -35,7 +35,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/LINUX-%23FCC624?style=flat&logo=linux&logoColor=white&logoSize=auto&labelColor=White&color=White">
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white&logoSize=auto&labelColor=White">
  </div>
- <br>
+ 
  <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-%230085CA?style=flat&logoSize=auto&labelColor=White">
   <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=flat&logo=javascript&logoColor=black&logoSize=auto">
@@ -43,7 +43,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-%234479A1?style=flat&logo=mysql&logoColor=white&logoSize=auto">
  </div>
  
- <br>
  <br>
 
 <!-- 사용 개발 도구 -->
@@ -53,14 +52,13 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/XCODE-%23147EFB?style=flat&logo=xcode&logoColor=white&logoSize=auto&labelColor=White">
   <img alt="Static Badge" src="https://img.shields.io/badge/VISUAL%20STUDIO-%235C2D91?style=flat&logo=visualstudio&logoColor=white&logoSize=auto&labelColor=White">
  </div>
- <br>
+ 
  <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/VSCODE-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white&logoSize=auto&labelColor=White">
   <img alt="Static Badge" src="https://img.shields.io/badge/ECLIPSE%20IDE-%232C2255?style=flat&logo=eclipseide&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/ANACONDA-%2344A833?style=flat&logo=anaconda&logoColor=white&logoSize=auto">
  </div>
  
- <br>
  <br>
 
 <h3> virsion control </h3>
